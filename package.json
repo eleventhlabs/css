@@ -1,0 +1,18 @@
+{
+  "name": "@eleventhlabs/css",
+  "version": "0.0.1",
+  "description": "Collection of standard CSS stylesheets.",
+  "author": "Stephen Chen <hello@stephenc.me>",
+  "license": "MIT",
+  "homepage": "https://github.com/eleventhlabs/css#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eleventhlabs/css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eleventhlabs/css/issues"
+  },
+  "files": [
+    "**/*.css"
+  ]
+}
