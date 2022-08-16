@@ -9,12 +9,11 @@ npm i @eleventhlabs/css
 ```
 
 ```js
-// index.js
-// Pick one of the following...
+// For CSS resets, pick one of the following...
 
-// Eric Meyer: https://meyerweb.com/eric/tools/css/reset/index.html
-import "@eleventhlabs/css/reset/eric-meyer.css";
+// Eric Meyer: http://meyerweb.com/eric/tools/css/reset
+import "@eleventhlabs/css/reset/meyer.css";
 
-// Tailwind Preflight: https://tailwindcss.com/docs/preflight
-import "@eleventhlabs/css/reset/tailwind.css";
+// Tailwind Preflight (but with standard CSS): https://tailwindcss.com/docs/preflight
+import "@eleventhlabs/css/reset/preflight.css";
 ```
